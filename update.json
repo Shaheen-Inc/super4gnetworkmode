@@ -1,4 +1,7 @@
 {
+  "app_disabled": false,
+  "app_disabled_redirect_url": "https://play.google.com/store/apps/details?id=NEW_APP_ID",
+  "app_disabled_message": "We launched a new app! Please download it to continue.",
   "force_update": false,
   "minimum_version_code": 45,
   "message": "New version available. Please update to continue.",
