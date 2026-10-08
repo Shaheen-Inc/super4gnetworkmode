@@ -1,9 +1,9 @@
 {
-  "app_disabled": true,
+  "app_disabled": false,
   "app_disabled_redirect_url": "https://play.google.com/store/apps/details?id=com.shaheen.super4gnetworkmode",
   "app_disabled_message": "We launched a new app! Please download it to continue.",
   "force_update": false,
-  "minimum_version_code": 45,
+  "minimum_version_code": 46,
   "message": "New version available. Please update to continue.",
   "play_store_link": "https://play.google.com/store/apps/details?id=com.shaheen.super4gnetworkmode"
 }
